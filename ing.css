@@ -1,0 +1,41 @@
+body {
+  background-image: url(../photo\ gw/ground.jpg);
+}
+table {
+  border-collapse: collapse;
+  margin: 20px;
+}
+
+th, td {
+  padding: 8px;
+  border: 1px solid rgb(0, 0, 0);
+  width: 280px;
+  height: 10px;
+}
+
+.vocabulary-table th {
+  background-color: #432ea3;
+  font-weight: bold;
+}
+
+.vocabulary-table td:first-child {
+  font-weight: bold;
+}
+
+.vocabulary-table td {
+  background-color: rgb(255, 255, 255);
+}
+
+.virzha {
+  text-align: center;
+  color: white;
+}
+
+.virzha2 {
+  text-align: center;
+  color: white;
+}
+
+.ilham {
+  width: 5%;
+}
